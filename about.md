@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
-excerpt: 'Exerpt of the about page.'
+title: Bio
+permalink: /biography/
+excerpt: 'Exerpt of the bio page.'
 tags: 'home'
 ---
 
