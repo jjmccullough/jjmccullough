@@ -3,7 +3,7 @@ layout: page
 title: Writing
 permalink: /writing/
 excerpt: My writing
-tags: 'writing'
+tags: 'home'
 ---
 
 Here is the actual content.
