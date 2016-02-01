@@ -6,7 +6,7 @@ excerpt: 'Exerpt of the about page.'
 tags: 'home'
 ---
 
-About page content
+About page content goes here.
 
 
 
