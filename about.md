@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-excerpt: 'An excerpt of the about page.'
+excerpt: 'An excerpt of the about page. Content'
 tags: 'home'
 ---
 
